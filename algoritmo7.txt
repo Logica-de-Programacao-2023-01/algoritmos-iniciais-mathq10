@@ -1,0 +1,12 @@
+se o numero é divisivel por 1 e por ele mesmo 
+entao ele é primo
+senão ele não é primo
+
+leia x
+leia y
+faça x/1 = x, x/x = 1 e x/y = numero não inteiro
+resultado = numero primo
+escrever resultado
+senão x/1 = x, x/x = 1 e x/y = numero inteiro
+resultado = numero nao primo
+escrever resultado
