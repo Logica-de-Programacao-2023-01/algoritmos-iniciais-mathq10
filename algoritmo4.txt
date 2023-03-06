@@ -1,0 +1,7 @@
+U= unidade   != fatorial
+
+
+leia U
+leia !
+resultado = U!
+escreva resultado
