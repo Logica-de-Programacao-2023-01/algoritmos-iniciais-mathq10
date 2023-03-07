@@ -1,0 +1,11 @@
+Defina o valor inicial do principal (capital)
+
+Defina a taxa de juros em decimal
+
+Defina o número de anos para o investimento
+
+Calcula o montante após o período especificado
+montante=$(echo "$principal * (1 + $taxa) ^ $anos" | bc)
+
+Imprime o resultado
+echo "O montante após $anos anos com uma taxa de juros de $taxa é de $montante"
