@@ -1,0 +1,6 @@
+leia area do triangulo
+leia base
+leia altura
+
+resultado area do triangulo = (base * altura)/2
+escrever resultado

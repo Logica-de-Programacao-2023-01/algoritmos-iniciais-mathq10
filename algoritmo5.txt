@@ -1,0 +1,7 @@
+leia lista
+leia elemento
+para cada posição da lista
+comparar se, o elemento na posição atual da lista, é igual ao elemento buscado
+se o elemento for igual ao elemento na posição da lista
+então exibir resultado
+senão a busca continua até achar o elemento igual da lista
