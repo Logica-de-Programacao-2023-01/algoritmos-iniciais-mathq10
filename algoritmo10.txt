@@ -1,0 +1,11 @@
+Definindo as notas e seus respectivos pesos
+nota1 
+nota2 
+peso1 
+peso2 
+
+Calculando a média ponderada
+media_ponderada = (nota1 * peso1) + (nota2 * peso2)
+
+Exibindo o resultado
+print("A média ponderada é:", media_ponderada)
