@@ -4,3 +4,4 @@ leia b = potencia
 faça a multiplicação do a n vezes para conseguir o b
 resultado = a^n = b
 escrever resultado
+sdfsdsdf
